@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FromVecToMat", "FromVecToMat\FromVecToMat.vcxproj", "{6DA065A1-D081-40DF-8BE7-D716CE9E684B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Debug|x64.ActiveCfg = Debug|x64
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Debug|x64.Build.0 = Debug|x64
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Debug|x86.Build.0 = Debug|Win32
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Release|x64.ActiveCfg = Release|x64
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Release|x64.Build.0 = Release|x64
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Release|x86.ActiveCfg = Release|Win32
+		{6DA065A1-D081-40DF-8BE7-D716CE9E684B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65374ED5-5C13-41A9-84BB-C223427FE270}
+	EndGlobalSection
+EndGlobal
